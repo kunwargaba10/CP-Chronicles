@@ -33,6 +33,7 @@
 | Ibrahim Raza Beg       | PHOX-9                  | IIIT Allahabd                                                    |
 | Vaishali ojha          | Nomen06                  | IIIT Allahabd                                                    |
 | Siddhant Shekhar       | sshekhar563             | United University                                                |
-| Ayush Saha             | verifiedHuman18         | IIIT Allahabad                                                   |
+| Ayush Saha             | verifiedHuman18         | IIIT Allahabad     
+| Khushi Shorey          | khushishorey            | IIIT Allahabad
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
